@@ -8,7 +8,7 @@ Each topic is maintained in a separate branch, as instructed — ensuring organi
  
  Course Overview
  
- The course introduces core frontend concepts, starting from *HTML, progressing through **CSS, **Flexbox, **Grid, and **Animations, and finally covering *Responsive Design.
+ The course introduces core frontend concepts, starting from HTML, progressing through CSS, Flexbox, Grid, and **Animations, and finally covering *Responsive Design.
 
 Learning Path
 
