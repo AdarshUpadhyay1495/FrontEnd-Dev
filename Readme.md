@@ -14,11 +14,19 @@ Learning Path
 
 
 Introduction to Web Development
+
 HTML Basics
+
 HTML Block & Inline Elements
+
 HTML Iframes
+
 CSS Basics
+
 CSS Flexbox and Grid
+
 CSS Model
+
 CSS Pseudo-Classes and Animations
+
 Responsive CSS
