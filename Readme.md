@@ -56,6 +56,7 @@ The course builds foundational to advanced frontend skills — starting from **H
 | Oct 31 | *CSS Model* | Designed calculator layout with gradients and shadows |
 | Oct 31 | *Pseudo Classes* | Added hover effects, transitions, and animations |
 | Nov 3 | *Responsive CSS* | Responsive CSS, covering Filters, Responsive Web Design principles |
+| Nov 6 | *Bootstrap* | Bootstrap Basics, Bootstrap Grids, and Bootstrap CSS |
 
 
 ---
