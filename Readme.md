@@ -1,7 +1,7 @@
 # 🎨 Frontend Development – Learning Repository
 
 Welcome to my **Frontend Development** repository!  
-This repository records my **daily learning progress, assignments, and projects** for the *Frontend Development* module, guided by **Mr. Deepak Prasad** and **Mr. Sahil Kumar**.
+This repository records my **daily learning progress, assignments, and projects** for the *Frontend Development* module, guided by **Mr. Sahil Kumar**.
 
 Each topic is organized into a **separate branch** for better version tracking and structured learning.
 
@@ -21,7 +21,7 @@ The course builds foundational to advanced frontend skills — starting from **H
 7. 🧱 CSS Box Model  
 8. ✨ Pseudo-Classes & Animations  
 9. 📱 Responsive CSS  
-
+10. 🎨 BootStrap
 ---
 
 ## 🗂 Repository Structure
@@ -38,6 +38,8 @@ The course builds foundational to advanced frontend skills — starting from **H
 | `css-model` | Box Model, borders, padding, gradients |
 | `css-classes` | Pseudo-classes, transitions, animations |
 | `responsive-css` | Filters, media queries, and responsive web design |
+| `Bootstrap` | Bootstrap Basics, Bootstrap Grids, and Bootstrap CSS |
+
 
 ---
 
@@ -53,6 +55,8 @@ The course builds foundational to advanced frontend skills — starting from **H
 | Oct 16 | *Flexbox & Grid* | Built a responsive calculator layout |
 | Oct 31 | *CSS Model* | Designed calculator layout with gradients and shadows |
 | Oct 31 | *Pseudo Classes* | Added hover effects, transitions, and animations |
+| Nov 3 | *Responsive CSS* | Responsive CSS, covering Filters, Responsive Web Design principles |
+
 
 ---
 
@@ -83,13 +87,21 @@ The course builds foundational to advanced frontend skills — starting from **H
 - Learned **hover effects**, **transitions**, and **tooltips**  
 - 🧩 *Task:* Animate an element diagonally using transforms  
 
+
+### 🗓 **Nov 3 – Responsive CSS**
+- Learned **Covering Filters**, **Responsive Web Design principless**  
+- 🧩 *Task:* Design a responsive card UI with a title, image, and text, including a hover transition effect
+
+### 🗓 **Nov 3 – Bootstrap**
+- Learned **Bootstrap Basics**, **Bootstrap Grids and Bootstrap CSS**
+- 🧩 *Task:* Design a responsive portfolio webpage using Bootstrap
 ---
 
 ## 🔮 Upcoming Topics
-- **Responsive CSS**
-  - Filters & shadows  
-  - Media Queries  
-  - Mobile-first Design Principles  
+- **Java Script**
+  - Logical Operators
+  - handles logic
+  - executes flow control  
 
 ---
 
@@ -106,7 +118,7 @@ The course builds foundational to advanced frontend skills — starting from **H
 
 ## 💬 Acknowledgement
 
-Grateful to **Mr. Deepak Prasad** for their continuous mentorship and real-world teaching approach that makes learning practical and enjoyable.
+Grateful to **Mr. Sahil Kumar** for their continuous mentorship and real-world teaching approach that makes learning practical and enjoyable.
 
 ---
 
