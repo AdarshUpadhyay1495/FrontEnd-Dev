@@ -93,7 +93,7 @@ The course builds foundational to advanced frontend skills — starting from **H
 - Learned **Covering Filters**, **Responsive Web Design principless**  
 - 🧩 *Task:* Design a responsive card UI with a title, image, and text, including a hover transition effect
 
-### 🗓 **Nov 3 – Bootstrap**
+### 🗓 **Nov 5 – Bootstrap**
 - Learned **Bootstrap Basics**, **Bootstrap Grids and Bootstrap CSS**
 - 🧩 *Task:* Design a responsive portfolio webpage using Bootstrap
 ---
